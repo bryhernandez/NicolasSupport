@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+#left{
+  width: 20%;
+  float: left;
+  position: fixed;
+}
+
+#right{
+  width: 80%;
+  float: right;
+}
+
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: blue;
+}
+
+a:hover{
+  color: teal;
+}
